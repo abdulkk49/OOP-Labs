@@ -1,2 +1,2 @@
 # OOP-Labs
-Labs of Object Oriented Programming course at BIrla Insitute of Science and Technology(BITS), Pilani
+Labs of Object Oriented Programming course at Birla Insitute of Technology and Science(BITS), Pilani
